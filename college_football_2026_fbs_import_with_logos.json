@@ -1687,18 +1687,18 @@
           "logoURL": "https://a.espncdn.com/i/teamlogos/ncaa/500/2751.png"
         }
         {
-          "name": "Angelo State",
-          "mascot": "Rams",
-          "primary": "0,48,135",
-          "secondary": "255,199,44",
-          "tertiary": "255,255,255",
-          "prestige": 63.0,
-          "offenseScheme": "spread",
-          "defenseScheme": "3-4",
-          "abbreviation": "ASU",
-          "region": "Southwest",
-          "logoURL": "https://upload.wikimedia.org/wikipedia/en/8/8e/Angelo_State_University_logo.svg.png"
-        }
+  "name": "Angelo State",
+  "mascot": "Rams",
+  "primary": "36,83,151",
+  "secondary": "255,199,44",
+  "tertiary": "255,255,255",
+  "prestige": 63.0,
+  "offenseScheme": "spread",
+  "defenseScheme": "3-4",
+  "abbreviation": "ASU",
+  "region": "Southwest",
+  "logoURL": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8e/Angelo_State_University_logo.svg/512px-Angelo_State_University_logo.svg.png"
+}
       ],
       "protectedPairs": []
     },
